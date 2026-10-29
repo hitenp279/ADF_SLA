@@ -1,9 +1,5 @@
 # Applications of Artificial Intelligence in Cybersecurity and Digital Forensics
 
-**Self-Learning Assessment: MOOC**  
-**Stage 1 – Activity 1: Article Writing**  
-**Topic:** Applications of Artificial Intelligence in Cybersecurity and Digital Forensics
-
 ## Introduction
 
 Digital systems are part of almost every area of modern life, from online banking to healthcare and business. As technology use increases, cyberattacks such as phishing, ransomware, identity theft, and data breaches also become more common. Security teams must examine large amounts of digital information to understand what happened during an incident. Artificial Intelligence (AI) can help by finding patterns, identifying unusual behaviour, and supporting investigators. Used carefully, AI can improve cybersecurity and digital forensics.
@@ -72,11 +68,3 @@ Organisations and investigators can use AI more responsibly by following these p
 Artificial Intelligence is becoming a valuable support tool in cybersecurity and advanced digital forensics. It can help detect suspicious behaviour, examine large datasets, connect related events, and reduce the time needed to find useful leads. At the same time, AI can make mistakes, produce biased results, and create privacy concerns.
 
 The most reliable approach combines AI's ability to process information at scale with the judgement and accountability of trained professionals. In digital forensics, evidence integrity, documented methods, and independent verification must remain central. AI should help investigators ask better questions and work more efficiently—not replace evidence or human responsibility.
-
-## Learning Reflection
-
-Preparing this article highlights that AI is most useful in digital forensics when treated as an assistant rather than an unquestionable authority. Understanding both its capabilities and limitations is essential for anyone entering cybersecurity or forensic investigation.
-
----
-
-*Prepared for a self-learning MOOC assessment. This is an educational overview; real investigations must follow applicable law, authorised procedures, and evidence-handling requirements.*
